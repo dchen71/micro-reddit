@@ -1,3 +1,3 @@
 ##Micro-Reddit  
 
-A junior version of Reddit which primarily handles posting and commenting  
+A junior version of Reddit which creates the user/posts/comment data structures for the site
